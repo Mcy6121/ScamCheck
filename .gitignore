@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environment
+venv/
+.venv/
+
+# Environment
+.env
+
+# Database
+*.db
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Flutter
+.dart_tool/
+build/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
